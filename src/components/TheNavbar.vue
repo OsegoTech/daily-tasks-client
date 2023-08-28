@@ -73,6 +73,16 @@ const showMenu = ref(false)
               Contact
             </router-link>
           </li>
+          <li>
+            <router-link to="/register">
+              Register
+            </router-link>
+          </li>
+          <li>
+            <router-link to="/login">
+              Login
+            </router-link>
+          </li>
 
         </ul>
       </nav>
